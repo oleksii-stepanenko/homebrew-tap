@@ -1,6 +1,6 @@
 cask "showpoint" do
-  version "0.2.1"
-  sha256 "f7351b77298c925d1404066cc517c8faa74c288a725b97527bbc901cc775d5f2"
+  version "0.2.2"
+  sha256 "b4211d4ae16f35a8745499231b62cacbf1f457e14e0b2c7fa01aa1d7d7e38ab0"
 
   url "https://github.com/oleksii-stepanenko/showpoint/releases/download/v#{version}/Showpoint.dmg"
   name "Showpoint"

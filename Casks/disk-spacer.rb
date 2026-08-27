@@ -1,6 +1,6 @@
 cask "disk-spacer" do
-  version "1.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "1.1.0"
+  sha256 "16cdd08a893a7e9605cbee5a03976043bf3db4584798bd5dbe5bc5e5fd9119de"
 
   url "https://github.com/oleksii-stepanenko/disk-spacer/releases/download/v#{version}/DiskSpacer.dmg"
   name "Disk Spacer"

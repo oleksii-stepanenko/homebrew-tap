@@ -1,6 +1,6 @@
 cask "piege-lock" do
   version "0.1.0"
-  sha256 "REPLACE_WITH_SHA256_OF_FIRST_RELEASE_DMG"
+  sha256 "4129595ea04c08f54aeec356a1997037850bccaf2f6ecb804b2c067f3abc99ca"
 
   url "https://github.com/oleksii-stepanenko/piege-lock/releases/download/v#{version}/PiegeLock.dmg"
   name "Piège Lock"
